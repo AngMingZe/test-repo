@@ -1,0 +1,2 @@
+- name: Cross Platform Action
+  uses: cross-platform-actions/action@v0.6.2
